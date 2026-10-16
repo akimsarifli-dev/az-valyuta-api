@@ -1,6 +1,39 @@
 {
-  "success": false,
-  "last_updated": "2026-10-16 07:42:45 UTC",
-  "total_records": 0,
-  "rates": []
+  "success": true,
+  "last_updated": "2026-10-16 07:44:49 UTC",
+  "total_records": 4,
+  "rates": [
+    {
+      "bank": "Bank məzənnələri Bank USD",
+      "currency": "USD",
+      "cash_buy": "1.6980",
+      "cash_sell": "1.7015",
+      "cashless_buy": "1.6980",
+      "cashless_sell": "1.7015"
+    },
+    {
+      "bank": "Bank məzənnələri Bank USD",
+      "currency": "EUR",
+      "cash_buy": "1.9100",
+      "cash_sell": "1.9465",
+      "cashless_buy": "1.9100",
+      "cashless_sell": "1.9465"
+    },
+    {
+      "bank": "Bank USD",
+      "currency": "USD",
+      "cash_buy": "1.6980",
+      "cash_sell": "1.7015",
+      "cashless_buy": "1.6980",
+      "cashless_sell": "1.7015"
+    },
+    {
+      "bank": "Bank USD",
+      "currency": "EUR",
+      "cash_buy": "1.9100",
+      "cash_sell": "1.9465",
+      "cashless_buy": "1.9100",
+      "cashless_sell": "1.9465"
+    }
+  ]
 }
