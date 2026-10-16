@@ -1,6 +1,758 @@
 {
   "success": true,
-  "last_updated": "2026-10-16 07:08:33 UTC",
+  "last_updated": "2026-10-16 07:17:46 UTC",
   "total_banks": 15,
-  "rates": []
+  "total_rates": 75,
+  "rates": [
+    {
+      "bank": "Azərbaycan Mərkəzi Bankı",
+      "bank_code": "AMB",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.7",
+      "cash_sell": "1.7",
+      "cashless_buy": "1.7",
+      "cashless_sell": "1.7"
+    },
+    {
+      "bank": "Azərbaycan Mərkəzi Bankı",
+      "bank_code": "AMB",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.85",
+      "cash_sell": "1.85",
+      "cashless_buy": "1.85",
+      "cashless_sell": "1.85"
+    },
+    {
+      "bank": "Azərbaycan Mərkəzi Bankı",
+      "bank_code": "AMB",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.018",
+      "cash_sell": "0.018",
+      "cashless_buy": "0.018",
+      "cashless_sell": "0.018"
+    },
+    {
+      "bank": "Azərbaycan Mərkəzi Bankı",
+      "bank_code": "AMB",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.052",
+      "cash_sell": "0.052",
+      "cashless_buy": "0.052",
+      "cashless_sell": "0.052"
+    },
+    {
+      "bank": "Azərbaycan Mərkəzi Bankı",
+      "bank_code": "AMB",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.15",
+      "cash_sell": "2.15",
+      "cashless_buy": "2.15",
+      "cashless_sell": "2.15"
+    },
+    {
+      "bank": "Kapital Bank (Birbank)",
+      "bank_code": "KAPITAL",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6949",
+      "cash_sell": "1.7051",
+      "cashless_buy": "1.6966",
+      "cashless_sell": "1.7034"
+    },
+    {
+      "bank": "Kapital Bank (Birbank)",
+      "bank_code": "KAPITAL",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8445",
+      "cash_sell": "1.8555",
+      "cashless_buy": "1.8463",
+      "cashless_sell": "1.8537"
+    },
+    {
+      "bank": "Kapital Bank (Birbank)",
+      "bank_code": "KAPITAL",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.018",
+      "cashless_sell": "0.018"
+    },
+    {
+      "bank": "Kapital Bank (Birbank)",
+      "bank_code": "KAPITAL",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0519",
+      "cashless_sell": "0.0521"
+    },
+    {
+      "bank": "Kapital Bank (Birbank)",
+      "bank_code": "KAPITAL",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1435",
+      "cash_sell": "2.1564",
+      "cashless_buy": "2.1457",
+      "cashless_sell": "2.1543"
+    },
+    {
+      "bank": "ABB (Azərbaycan Beynəlxalq Bankı)",
+      "bank_code": "ABB",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6949",
+      "cash_sell": "1.7051",
+      "cashless_buy": "1.6975",
+      "cashless_sell": "1.7026"
+    },
+    {
+      "bank": "ABB (Azərbaycan Beynəlxalq Bankı)",
+      "bank_code": "ABB",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8445",
+      "cash_sell": "1.8555",
+      "cashless_buy": "1.8472",
+      "cashless_sell": "1.8528"
+    },
+    {
+      "bank": "ABB (Azərbaycan Beynəlxalq Bankı)",
+      "bank_code": "ABB",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.018",
+      "cashless_sell": "0.018"
+    },
+    {
+      "bank": "ABB (Azərbaycan Beynəlxalq Bankı)",
+      "bank_code": "ABB",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0519",
+      "cashless_sell": "0.0521"
+    },
+    {
+      "bank": "ABB (Azərbaycan Beynəlxalq Bankı)",
+      "bank_code": "ABB",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1435",
+      "cash_sell": "2.1564",
+      "cashless_buy": "2.1468",
+      "cashless_sell": "2.1532"
+    },
+    {
+      "bank": "PAŞA Bank",
+      "bank_code": "PASA",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6958",
+      "cash_sell": "1.7042",
+      "cashless_buy": "1.6975",
+      "cashless_sell": "1.7026"
+    },
+    {
+      "bank": "PAŞA Bank",
+      "bank_code": "PASA",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8454",
+      "cash_sell": "1.8546",
+      "cashless_buy": "1.8472",
+      "cashless_sell": "1.8528"
+    },
+    {
+      "bank": "PAŞA Bank",
+      "bank_code": "PASA",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.018",
+      "cash_sell": "0.018",
+      "cashless_buy": "0.018",
+      "cashless_sell": "0.018"
+    },
+    {
+      "bank": "PAŞA Bank",
+      "bank_code": "PASA",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0519",
+      "cash_sell": "0.0521",
+      "cashless_buy": "0.0519",
+      "cashless_sell": "0.0521"
+    },
+    {
+      "bank": "PAŞA Bank",
+      "bank_code": "PASA",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1446",
+      "cash_sell": "2.1554",
+      "cashless_buy": "2.1468",
+      "cashless_sell": "2.1532"
+    },
+    {
+      "bank": "Unibank",
+      "bank_code": "UNIBANK",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6932",
+      "cash_sell": "1.7068",
+      "cashless_buy": "1.6949",
+      "cashless_sell": "1.7051"
+    },
+    {
+      "bank": "Unibank",
+      "bank_code": "UNIBANK",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8426",
+      "cash_sell": "1.8574",
+      "cashless_buy": "1.8445",
+      "cashless_sell": "1.8555"
+    },
+    {
+      "bank": "Unibank",
+      "bank_code": "UNIBANK",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.0179",
+      "cashless_sell": "0.0181"
+    },
+    {
+      "bank": "Unibank",
+      "bank_code": "UNIBANK",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0518",
+      "cashless_sell": "0.0522"
+    },
+    {
+      "bank": "Unibank",
+      "bank_code": "UNIBANK",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1414",
+      "cash_sell": "2.1586",
+      "cashless_buy": "2.1435",
+      "cashless_sell": "2.1564"
+    },
+    {
+      "bank": "Bank Respublika",
+      "bank_code": "BRESPUBLIKA",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6941",
+      "cash_sell": "1.706",
+      "cashless_buy": "1.6958",
+      "cashless_sell": "1.7042"
+    },
+    {
+      "bank": "Bank Respublika",
+      "bank_code": "BRESPUBLIKA",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8435",
+      "cash_sell": "1.8565",
+      "cashless_buy": "1.8454",
+      "cashless_sell": "1.8546"
+    },
+    {
+      "bank": "Bank Respublika",
+      "bank_code": "BRESPUBLIKA",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.018",
+      "cashless_sell": "0.018"
+    },
+    {
+      "bank": "Bank Respublika",
+      "bank_code": "BRESPUBLIKA",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0519",
+      "cashless_sell": "0.0521"
+    },
+    {
+      "bank": "Bank Respublika",
+      "bank_code": "BRESPUBLIKA",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1425",
+      "cash_sell": "2.1575",
+      "cashless_buy": "2.1446",
+      "cashless_sell": "2.1554"
+    },
+    {
+      "bank": "Yelo Bank",
+      "bank_code": "YELO",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6941",
+      "cash_sell": "1.706",
+      "cashless_buy": "1.6958",
+      "cashless_sell": "1.7042"
+    },
+    {
+      "bank": "Yelo Bank",
+      "bank_code": "YELO",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8435",
+      "cash_sell": "1.8565",
+      "cashless_buy": "1.8454",
+      "cashless_sell": "1.8546"
+    },
+    {
+      "bank": "Yelo Bank",
+      "bank_code": "YELO",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.018",
+      "cashless_sell": "0.018"
+    },
+    {
+      "bank": "Yelo Bank",
+      "bank_code": "YELO",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0519",
+      "cashless_sell": "0.0521"
+    },
+    {
+      "bank": "Yelo Bank",
+      "bank_code": "YELO",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1425",
+      "cash_sell": "2.1575",
+      "cashless_buy": "2.1446",
+      "cashless_sell": "2.1554"
+    },
+    {
+      "bank": "Rabitəbank",
+      "bank_code": "RABITA",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6941",
+      "cash_sell": "1.706",
+      "cashless_buy": "1.6958",
+      "cashless_sell": "1.7042"
+    },
+    {
+      "bank": "Rabitəbank",
+      "bank_code": "RABITA",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8435",
+      "cash_sell": "1.8565",
+      "cashless_buy": "1.8454",
+      "cashless_sell": "1.8546"
+    },
+    {
+      "bank": "Rabitəbank",
+      "bank_code": "RABITA",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.018",
+      "cashless_sell": "0.018"
+    },
+    {
+      "bank": "Rabitəbank",
+      "bank_code": "RABITA",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0519",
+      "cashless_sell": "0.0521"
+    },
+    {
+      "bank": "Rabitəbank",
+      "bank_code": "RABITA",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1425",
+      "cash_sell": "2.1575",
+      "cashless_buy": "2.1446",
+      "cashless_sell": "2.1554"
+    },
+    {
+      "bank": "AccessBank",
+      "bank_code": "ACCESS",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6932",
+      "cash_sell": "1.7068",
+      "cashless_buy": "1.6949",
+      "cashless_sell": "1.7051"
+    },
+    {
+      "bank": "AccessBank",
+      "bank_code": "ACCESS",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8426",
+      "cash_sell": "1.8574",
+      "cashless_buy": "1.8445",
+      "cashless_sell": "1.8555"
+    },
+    {
+      "bank": "AccessBank",
+      "bank_code": "ACCESS",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.0179",
+      "cashless_sell": "0.0181"
+    },
+    {
+      "bank": "AccessBank",
+      "bank_code": "ACCESS",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0518",
+      "cashless_sell": "0.0522"
+    },
+    {
+      "bank": "AccessBank",
+      "bank_code": "ACCESS",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1414",
+      "cash_sell": "2.1586",
+      "cashless_buy": "2.1435",
+      "cashless_sell": "2.1564"
+    },
+    {
+      "bank": "Expressbank",
+      "bank_code": "EXPRESS",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6941",
+      "cash_sell": "1.706",
+      "cashless_buy": "1.6958",
+      "cashless_sell": "1.7042"
+    },
+    {
+      "bank": "Expressbank",
+      "bank_code": "EXPRESS",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8435",
+      "cash_sell": "1.8565",
+      "cashless_buy": "1.8454",
+      "cashless_sell": "1.8546"
+    },
+    {
+      "bank": "Expressbank",
+      "bank_code": "EXPRESS",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.018",
+      "cashless_sell": "0.018"
+    },
+    {
+      "bank": "Expressbank",
+      "bank_code": "EXPRESS",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0519",
+      "cashless_sell": "0.0521"
+    },
+    {
+      "bank": "Expressbank",
+      "bank_code": "EXPRESS",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1425",
+      "cash_sell": "2.1575",
+      "cashless_buy": "2.1446",
+      "cashless_sell": "2.1554"
+    },
+    {
+      "bank": "Xalq Bank",
+      "bank_code": "XALQ",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6949",
+      "cash_sell": "1.7051",
+      "cashless_buy": "1.6958",
+      "cashless_sell": "1.7042"
+    },
+    {
+      "bank": "Xalq Bank",
+      "bank_code": "XALQ",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8445",
+      "cash_sell": "1.8555",
+      "cashless_buy": "1.8454",
+      "cashless_sell": "1.8546"
+    },
+    {
+      "bank": "Xalq Bank",
+      "bank_code": "XALQ",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.018",
+      "cashless_sell": "0.018"
+    },
+    {
+      "bank": "Xalq Bank",
+      "bank_code": "XALQ",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0519",
+      "cashless_sell": "0.0521"
+    },
+    {
+      "bank": "Xalq Bank",
+      "bank_code": "XALQ",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1435",
+      "cash_sell": "2.1564",
+      "cashless_buy": "2.1446",
+      "cashless_sell": "2.1554"
+    },
+    {
+      "bank": "Ziraat Bank Azərbaycan",
+      "bank_code": "ZIRAAT",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6949",
+      "cash_sell": "1.7051",
+      "cashless_buy": "1.6966",
+      "cashless_sell": "1.7034"
+    },
+    {
+      "bank": "Ziraat Bank Azərbaycan",
+      "bank_code": "ZIRAAT",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8445",
+      "cash_sell": "1.8555",
+      "cashless_buy": "1.8463",
+      "cashless_sell": "1.8537"
+    },
+    {
+      "bank": "Ziraat Bank Azərbaycan",
+      "bank_code": "ZIRAAT",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.018",
+      "cashless_sell": "0.018"
+    },
+    {
+      "bank": "Ziraat Bank Azərbaycan",
+      "bank_code": "ZIRAAT",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0519",
+      "cashless_sell": "0.0521"
+    },
+    {
+      "bank": "Ziraat Bank Azərbaycan",
+      "bank_code": "ZIRAAT",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1435",
+      "cash_sell": "2.1564",
+      "cashless_buy": "2.1457",
+      "cashless_sell": "2.1543"
+    },
+    {
+      "bank": "Bank of Baku",
+      "bank_code": "BOB",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6932",
+      "cash_sell": "1.7068",
+      "cashless_buy": "1.6949",
+      "cashless_sell": "1.7051"
+    },
+    {
+      "bank": "Bank of Baku",
+      "bank_code": "BOB",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8426",
+      "cash_sell": "1.8574",
+      "cashless_buy": "1.8445",
+      "cashless_sell": "1.8555"
+    },
+    {
+      "bank": "Bank of Baku",
+      "bank_code": "BOB",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.0179",
+      "cashless_sell": "0.0181"
+    },
+    {
+      "bank": "Bank of Baku",
+      "bank_code": "BOB",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0518",
+      "cashless_sell": "0.0522"
+    },
+    {
+      "bank": "Bank of Baku",
+      "bank_code": "BOB",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1414",
+      "cash_sell": "2.1586",
+      "cashless_buy": "2.1435",
+      "cashless_sell": "2.1564"
+    },
+    {
+      "bank": "TuranBank",
+      "bank_code": "TURAN",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6932",
+      "cash_sell": "1.7068",
+      "cashless_buy": "1.6949",
+      "cashless_sell": "1.7051"
+    },
+    {
+      "bank": "TuranBank",
+      "bank_code": "TURAN",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8426",
+      "cash_sell": "1.8574",
+      "cashless_buy": "1.8445",
+      "cashless_sell": "1.8555"
+    },
+    {
+      "bank": "TuranBank",
+      "bank_code": "TURAN",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.0179",
+      "cashless_sell": "0.0181"
+    },
+    {
+      "bank": "TuranBank",
+      "bank_code": "TURAN",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0518",
+      "cashless_sell": "0.0522"
+    },
+    {
+      "bank": "TuranBank",
+      "bank_code": "TURAN",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1414",
+      "cash_sell": "2.1586",
+      "cashless_buy": "2.1435",
+      "cashless_sell": "2.1564"
+    },
+    {
+      "bank": "Azər Türk Bank (ATB)",
+      "bank_code": "ATB",
+      "currency": "USD",
+      "cbar_official": 1.7,
+      "cash_buy": "1.6949",
+      "cash_sell": "1.7051",
+      "cashless_buy": "1.6966",
+      "cashless_sell": "1.7034"
+    },
+    {
+      "bank": "Azər Türk Bank (ATB)",
+      "bank_code": "ATB",
+      "currency": "EUR",
+      "cbar_official": 1.85,
+      "cash_buy": "1.8445",
+      "cash_sell": "1.8555",
+      "cashless_buy": "1.8463",
+      "cashless_sell": "1.8537"
+    },
+    {
+      "bank": "Azər Türk Bank (ATB)",
+      "bank_code": "ATB",
+      "currency": "RUB",
+      "cbar_official": 0.018,
+      "cash_buy": "0.0179",
+      "cash_sell": "0.0181",
+      "cashless_buy": "0.018",
+      "cashless_sell": "0.018"
+    },
+    {
+      "bank": "Azər Türk Bank (ATB)",
+      "bank_code": "ATB",
+      "currency": "TRY",
+      "cbar_official": 0.052,
+      "cash_buy": "0.0518",
+      "cash_sell": "0.0522",
+      "cashless_buy": "0.0519",
+      "cashless_sell": "0.0521"
+    },
+    {
+      "bank": "Azər Türk Bank (ATB)",
+      "bank_code": "ATB",
+      "currency": "GBP",
+      "cbar_official": 2.15,
+      "cash_buy": "2.1435",
+      "cash_sell": "2.1564",
+      "cashless_buy": "2.1457",
+      "cashless_sell": "2.1543"
+    }
+  ]
 }
