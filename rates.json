@@ -1,47 +1,6 @@
 {
   "success": true,
-  "last_updated": "2026-10-16 07:23:48 UTC",
-  "total_records": 5,
-  "rates": [
-    {
-      "bank": "Azərbaycan Mərkəzi Bankı",
-      "currency": "USD",
-      "cash_buy": "1.7",
-      "cash_sell": "1.7",
-      "cashless_buy": "1.7",
-      "cashless_sell": "1.7"
-    },
-    {
-      "bank": "Azərbaycan Mərkəzi Bankı",
-      "currency": "EUR",
-      "cash_buy": "1.909",
-      "cash_sell": "1.909",
-      "cashless_buy": "1.909",
-      "cashless_sell": "1.909"
-    },
-    {
-      "bank": "Azərbaycan Mərkəzi Bankı",
-      "currency": "GBP",
-      "cash_buy": "2.2616",
-      "cash_sell": "2.2616",
-      "cashless_buy": "2.2616",
-      "cashless_sell": "2.2616"
-    },
-    {
-      "bank": "Azərbaycan Mərkəzi Bankı",
-      "currency": "RUB",
-      "cash_buy": "2.029",
-      "cash_sell": "2.029",
-      "cashless_buy": "2.029",
-      "cashless_sell": "2.029"
-    },
-    {
-      "bank": "Azərbaycan Mərkəzi Bankı",
-      "currency": "TRY",
-      "cash_buy": "0.0343",
-      "cash_sell": "0.0343",
-      "cashless_buy": "0.0343",
-      "cashless_sell": "0.0343"
-    }
-  ]
+  "last_updated": "2026-10-16 07:26:18 UTC",
+  "total_records": 0,
+  "rates": []
 }
