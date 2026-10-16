@@ -21,7 +21,7 @@ jobs:
 
       - name: Lazımi kitabxanaları quraşdır
         run: |
-          pip install requests beautifulsoup4 lxml
+          pip install requests beautifulsoup4 lxml cloudscraper curl_cffi
 
       - name: Skripti işə sal
         run: |
