@@ -21,7 +21,7 @@ jobs:
 
       - name: Lazımi kitabxanaları quraşdır
         run: |
-          pip install requests
+          pip install requests beautifulsoup4 lxml
 
       - name: Skripti işə sal
         run: |
